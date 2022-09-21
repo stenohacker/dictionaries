@@ -7,4 +7,4 @@
 - I have some entries that are three letters, and those do not get reversed. 
 -  Some of these entries may seem a little silly as they fall outside of usual spelling rules, but you'd be surprised how handy they are when you are hearing lots of acronyms. 
 - CATalyst users, you can import this file just like you would any other .rtf file. 
-- Other software users, same thing. 
+- Other software users, same thing.
