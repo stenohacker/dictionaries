@@ -15,8 +15,12 @@
 
 #### Anomalies 
 - I have left out KW- as a combo and made that Q.  
-- Instead of having KH-, I made that CH. 
+- Instead of KH-, I made that CH. 
 - Instead of KL-, I made that CL.
+- Instead of AOI, I made that Y.
+- Instead of KP-, I made that CP.
+*NOTE:  I use SKP- for X and SWR- for Z.*  
+
 
 #### The Extra Entries 
 -  Some of these entries may seem a little silly as they fall outside of usual spelling rules, but you'd be surprised how handy they are when you are hearing lots of acronyms. 
