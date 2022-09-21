@@ -1,5 +1,7 @@
 # dictionaries
 
+**Please check back for updates.  This list may be cleaned up or explanded.  Look for the last updated date.**
+
 I use this all the time. People have been asking me to share, so here it is. 
 
 ### EXPLANATION  
