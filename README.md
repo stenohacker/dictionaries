@@ -4,7 +4,7 @@
 
 I use this all the time. People have been asking me to share, so here it is. 
 
-### EXPLANATION  
+### MULTI-LETTER FINGER SPELLING EXPLANATION  
 
 - This is based off of regular finger spelling.  The difference is that you slide your hand over ever so slightly to the -TZ and add that on the end. 
 - Everybody is capable of moving their hand over when there are no other keys being pressed on the right side.  So give it a try even if you think it's impossible. ====Nothing is impossible with practice. ====
