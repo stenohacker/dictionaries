@@ -1,6 +1,9 @@
 # dictionaries
-### Explanation  
+
 *I use this all the time. People have been asking me to share, so here it is. 
+
+### EXPLANATION  
+
 - This is based off of regular finger spelling.  The difference is that you slide your hand over ever so slightly to the -TZ and add that on the end. 
 - Everybody is capable of moving their hand over when there are no other keys being pressed on the right side.  So give it a try even if you think it's impossible. ====Nothing is impossible with practice. ====
 - I do have a regular finger-spelling dictionary, but I also have entered just one letter entries like A, which would be ATZ. 
@@ -9,9 +12,12 @@
 - TKPWHROU is GROU 
 - If the -TZ conflicts with anything, try a different combo of letters that you would never stroke. -TDZ might even be easier for you. 
 
-#### Reversing Letters 
+#### REVERSING LETTTERS 
 - I am using the asterisk to reverse the letters. 
 - I have some entries that have three letters, and those do not get reversed. 
+
+#### DOUBLING LETTTERS 
+- I used the * to double a letter.  You will only see this on one-letter entries.
 
 #### Anomalies 
 - I have left out KW- as a combo and made that Q.  
