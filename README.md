@@ -1,6 +1,6 @@
 # dictionaries
 
-*I use this all the time. People have been asking me to share, so here it is. 
+I use this all the time. People have been asking me to share, so here it is. 
 
 ### EXPLANATION  
 
