@@ -1,6 +1,8 @@
 # dictionaries
 
-** Click Go to file to get to the .rtf to download **
+** Click the Code dropdown, then download zip file. Import the .rtf file."  
+
+** CATalyst users:  It is not a CATalyst backup.  Unzip first. Import.  Not Restore. **
 
 **Please check back for updates.  This list may be cleaned up or explanded.  Look for the last updated date.**
 
