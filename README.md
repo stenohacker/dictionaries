@@ -1,6 +1,6 @@
 # dictionaries
 
-** Click Go to File to get to the .rtf to download **
+** Click Go to file to get to the .rtf to download **
 
 **Please check back for updates.  This list may be cleaned up or explanded.  Look for the last updated date.**
 
