@@ -27,10 +27,11 @@ I use this all the time. People have been asking me to share, so here it is.
 
 #### Anomalies 
 - I have left out KW- as a combo and made that Q.  
-- Instead of KH-, I made that CH. 
-- Instead of KL-, I made that CL.
-- Instead of AOI, I made that Y.
-- Instead of KP-, I made that CP.
+- instead of KH-, I made that CH 
+- instead of KL-, I made that CL
+- instead of AOI, I made that Y
+- instead of KP-, I made that CP
+- KPWR- = CB- (combined C and B on left)
  
 *NOTE:  I use SKP- for X and SWR- for Z.*  
 
