@@ -42,3 +42,13 @@ I use this all the time. People have been asking me to share, so here it is.
 #### How to Get In Your CAT Software 
 - CATalyst users, you can import this file just like you would any other .rtf file.  The formatting will be correct.
 - Other software users, same thing.
+
+
+
+---
+
+STATES
+
+Using -SDZ and adding sounds to the beginning.
+On a few I had to add a few letters on the right and tap with my index finger.
+Takes a minute the get use to. 
